@@ -18,7 +18,11 @@ the relation with the topic of the class.
 
 # Special Thanks to David, Doug and Brian!
 
-Thanks to all of you for the great teachings
+Thanks to all of you for the great teachings <3
+
+* [David J. Malan](https://github.com/dmalan)
+* [Brian Yu](https://github.com/brianyu28)
+* [Doug Lloyd](https://github.com/dlloyd09)
 
 ## Disclaimer
 
