@@ -26,9 +26,13 @@ Thanks to all of you for the great teachings <3
 
 ## Disclaimer
 
-As I say, Im not going to give the code of the solutions there are
-plenty of that repos, my goal is to explain core concepts for people
-with no CS background like my self.
+As I say, Im not going to give the code of the solutions because its
+forbidden by the Academic Honesty Policy, my goal is to explain core
+concepts for people with no CS background like my self as I learned 
+and give some guidance of how face the problems.
+
+This is why this repo its going to be indexed by concepts NOT by problem
+sets
 
 If you are coursing the CS50 remember the the code of honesty! you can
 ask for help o guidance but not just copy the solutions there is not
